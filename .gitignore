@@ -4,3 +4,18 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/
 data/processed/test_predictions.csv
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
